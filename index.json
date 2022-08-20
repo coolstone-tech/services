@@ -5,7 +5,7 @@
     { "name":"Append Shebang", "about":"Function & CLI command to prepend '#! /usr/bin/env node' to a file", "url":"https://www.npmjs.com/append-shebang"},
     { "name":"QuickSearcher", "about":"Add Google to your Menubar!", "url":"https://coolstone.itch.io/qs" },
     { "name":"API Test", "about":"Test an API endpoint", "url":"https://coolstone.itch.io/api-test" },
-    { "name":"localStorage 2", "about":"localStorage API for Node.js", "url":"https://npmjs.com/localstorage2" },
+    { "name":"localStorage 2", "about":"localStorage API for Node.js", "url":"https://npmjs.com/localstorage2", "deprecated":true },
     { "name":"Openr", "about":"Cross-platform url opener", "url":"https://npmjs.com/openr" },
     { "name":"String CLI", "about":"Run string functions from your command line", "url":"https://npmjs.com/string-cli" },
     { "name":"Quadratic.js", "about":"Solve a quadratic in Node.js", "url":"https://npmjs.com/quadratic.js" },
