@@ -26,5 +26,5 @@
     { "name":"npm widget", "about":"Widget for your NPM package", "url":"https://npmwidget.coolstone.dev" },
     { "name":"Trivia", "about":"Test your knowledge", "url":"https://coolstone.dev/trivia/" },
     { "name":"Remoterm", "about":"Remotely run bash commands", "url":"https://npmjs.com/remoterm" },
-    { "name":"Red-Bot", "about":"Fun Discord bot", "url":"https://discord.com/api/oauth2/authorize?client_id=772534784127402024&permissions=8&scope=bot%20applications.commands" } 
+    { "name":"Red-Bot", "about":"Fun, meme, roleplay, and moderation commands to make your server more awesome!", "url":"https://discord.com/api/oauth2/authorize?client_id=772534784127402024&permissions=8&scope=bot%20applications.commands" } 
 ]
