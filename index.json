@@ -1,7 +1,7 @@
 [
     { "name":"Image to Base64", "about":"Convert image to Base64", "url":"https://coolstone.itch.io/image-to-base64", "type":"website" },
-    { "name":"Dubnium", "about":"A powerful local database", "url":"https://npmjs.com/dubnium" },
-    { "name":"DirCounter", "about":"CLI command to count files in a directory", "url":"https://npmjs.com/dircounter" },
+    { "name":"Dubnium", "about":"A powerful local database", "url":"https://npmjs.com/dubnium", "type":"npm" },
+    { "name":"DirCounter", "about":"CLI command to count files in a directory", "url":"https://npmjs.com/dircounter", "type":"npm" },
     { "name":"Append Shebang", "about":"Function & CLI command to prepend '#! /usr/bin/env node' to a file", "url":"https://www.npmjs.com/append-shebang", "type":"npm"},
     { "name":"QuickSearcher", "about":"Add Google to your Menubar!", "url":"https://coolstone.itch.io/qs", "type":"app" },
     { "name":"API Test", "about":"Test an API endpoint", "url":"https://coolstone.itch.io/api-test", "type":"website" },
