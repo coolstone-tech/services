@@ -23,7 +23,7 @@
     { "name":"Print File", "about":"Print a file", "url":"https://www.npmjs.com/package/print-file", "type":"npm" },
     { "name":"npm src", "about":"Download a npm package", "url":"https://coolstone.dev/npm/src", "type":"website" },
     { "name":"OpenCLI", "about":"CLI wrapper for OpenAI", "url":"https://npmjs.com/package/openai-cli", "type":"cli" },
-    { "name":"npm widget", "about":"Widget for your NPM package", "url":"https://npmwidget.coolstone.dev", "type":"other" },
+    { "name":"npm widget", "about":"Widget for your npm package", "url":"https://npmwidget.coolstone.dev", "type":"other" },
     { "name":"Trivia", "about":"Test your knowledge", "url":"https://coolstone.dev/trivia/", "type":"website" },
     { "name":"Remoterm", "about":"Remotely run bash commands", "url":"https://npmjs.com/remoterm", "type":"npm" },
     { "name":"Red-Bot", "about":"Fun, meme, roleplay, and moderation commands to make your server more awesome!", "url":"https://discord.com/api/oauth2/authorize?client_id=772534784127402024&permissions=8&scope=bot%20applications.commands", "type":"bot" }, 
