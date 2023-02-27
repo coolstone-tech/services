@@ -26,6 +26,6 @@
     { "name":"npm widget", "about":"Widget for your NPM package", "url":"https://npmwidget.coolstone.dev", "type":"other" },
     { "name":"Trivia", "about":"Test your knowledge", "url":"https://coolstone.dev/trivia/", "type":"website" },
     { "name":"Remoterm", "about":"Remotely run bash commands", "url":"https://npmjs.com/remoterm", "type":"npm" },
-    { "name":"Red-Bot", "about":"Fun, meme, roleplay, and moderation commands to make your server more awesome!", "url":"https://discord.com/api/oauth2/authorize?client_id=772534784127402024&permissions=8&scope=bot%20applications.commands", "type":"bot" } 
+    { "name":"Red-Bot", "about":"Fun, meme, roleplay, and moderation commands to make your server more awesome!", "url":"https://discord.com/api/oauth2/authorize?client_id=772534784127402024&permissions=8&scope=bot%20applications.commands", "type":"bot" }, 
     { "name":"Praseodymium", "about":"Use .properties files in Node.js", "url":"https://www.npmjs.com/package/praseodymium", "type":"npm" }     
 ]
