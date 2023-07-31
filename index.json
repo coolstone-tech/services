@@ -32,5 +32,5 @@
     { "name":"Fill In", "about":"Fill in the blank game.", "url":"https://github.com/systemsoftware/fill-in", "type":"website" },
     { "name":"Register Accelerator", "about":"Register all accelerators in an Electron menu.", "url":"https://www.npmjs.com/package/register-accelerator", "type":"npm" },
     { "name":"console", "about":"Console app to view .log files in real time", "url":"https://github.com/coolstone-tech/console", "type":"app" },
-    { "name":"Menubar.js", "about":"Create a Menubar app with Electron", "url":"https://www.npmjs.com/package/menubar.js", "type":"npm" },
+    { "name":"Menubar.js", "about":"Create a Menubar app with Electron", "url":"https://www.npmjs.com/package/menubar.js", "type":"npm" }
 ]
