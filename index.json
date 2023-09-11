@@ -33,5 +33,6 @@
     { "name":"Register Accelerator", "about":"Register all accelerators in an Electron menu.", "url":"https://www.npmjs.com/package/register-accelerator", "type":"npm" },
     { "name":"console", "about":"Console app to view .log files in real time", "url":"https://github.com/coolstone-tech/console", "type":"app" },
     { "name":"Menubar.js", "about":"Create a Menubar app with Electron", "url":"https://www.npmjs.com/package/menubar.js", "type":"npm" },
-    { "name":"File Watcher", "about":"Get notified when a file changes", "url":"https://coolstone.itch.io/file-watcher", "type":"app" }
+    { "name":"File Watcher", "about":"Get notified when a file changes", "url":"https://coolstone.itch.io/file-watcher", "type":"app" },
+    { "name":"Web Studio", "about":"A simple IDE for beginning web developers. ", "url":"https://coolstone.itch.io/webstudio", "type":"app" },
 ]
