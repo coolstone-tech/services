@@ -11,7 +11,7 @@
     { "name":"Quadratic.js", "about":"Solve a quadratic in Node.js", "url":"https://npmjs.com/quadratic.js", "type":"npm" },
     { "name":"Quadratic Solver", "about":"Solve a quadratic", "url":"https://coolstone.itch.io/quadratic-solver", "type":"website" },
     { "name":"Drawboard.net", "about":"Real-time drawing with your friends", "url":"https://drawboard.net", "type":"website", "deprecated":true },
-    { "name":"Filebar", "about":"Quick access directories from your menubar!", "url":"https://coolstone.itch.io/filebar", "type":"app" },
+    { "name":"Filebar", "about":"Quick access to files in your menubar!", "url":"https://coolstone.itch.io/filebar", "type":"app" },
     { "name":"Notebar", "about":"Write something down in your menubar!", "url":"https://coolstone.itch.io/notebar", "type":"app" },
     { "name":"NodeTimer", "about":"Make a timer in Nodejs", "url":"https://npmjs.com/nodetimer.js", "type":"npm" },
     { "name":"Oneline JS", "about":"Minify your JS file", "url":"https://npmjs.com/onelinejs", "type":"cli" },
@@ -30,9 +30,10 @@
     { "name":"Praseodymium", "about":"Use .properties files in Node.js", "url":"https://www.npmjs.com/package/praseodymium", "type":"npm" },
     { "name":"Encryptic", "about":"A simple encryption library for Node.js", "url":"https://www.npmjs.com/package/encryptic", "type":"npm" },  
     { "name":"Fill In", "about":"Fill in the blank game.", "url":"https://github.com/systemsoftware/fill-in", "type":"website" },
-    { "name":"Register Accelerator", "about":"Register all accelerators in an Electron menu.", "url":"https://www.npmjs.com/package/register-accelerator", "type":"npm" },
+    { "name":"Register Accelerator", "about":"Register all accelerators in an Electron menu", "url":"https://www.npmjs.com/package/register-accelerator", "type":"npm" },
     { "name":"console", "about":"Console app to view .log files in real time", "url":"https://github.com/coolstone-tech/console", "type":"app" },
     { "name":"Menubar.js", "about":"Create a Menubar app with Electron", "url":"https://www.npmjs.com/package/menubar.js", "type":"npm" },
     { "name":"File Watcher", "about":"Get notified when a file changes", "url":"https://coolstone.itch.io/file-watcher", "type":"app" },
-    { "name":"Web Studio", "about":"A simple IDE for beginning web developers. ", "url":"https://coolstone.itch.io/webstudio", "type":"app" }
+    { "name":"Web Studio", "about":"A simple IDE for beginning web developers", "url":"https://coolstone.itch.io/webstudio", "type":"app" },
+    { "name":"Process Manager", "about":"Basic process manager for macOS & Windows", "url":"https://coolstone.itch.io/process-manager", "type":"app" }
 ]
