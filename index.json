@@ -37,5 +37,5 @@
     { "name":"Web Studio", "about":"A simple IDE for beginning web developers", "url":"https://coolstone.itch.io/webstudio", "type":"app" },
     { "name":"Process Manager", "about":"Basic process manager for macOS & Windows", "url":"https://coolstone.itch.io/process-manager", "type":"app" },
     { "name":"quark", "about":"Fast and minimalistic menu bar-based browser", "url":"https://coolstone.itch.io/quark", "type":"app" },
-    { "name":"YouTube Multiviewer", "about":"View many YouTube videos at once.", "url":"https://multiviewer.glitch.me/", "type":"website" },
+    { "name":"YouTube Multiviewer", "about":"View many YouTube videos at once.", "url":"https://multiviewer.glitch.me/", "type":"website" }
 ]
