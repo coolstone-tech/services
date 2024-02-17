@@ -16,7 +16,7 @@
     { "name":"NodeTimer", "about":"Make a timer in Nodejs", "url":"https://npmjs.com/nodetimer.js", "type":"npm" },
     { "name":"Oneline JS", "about":"Minify your JS file", "url":"https://npmjs.com/onelinejs", "type":"cli" },
     { "name":"Semiadder", "about":"Add semicolons to the end of every line of your file", "url":"https://npmjs.com/semiadder", "type":"cli" },
-    { "name":"Servercraft", "about":"Make your own Minecraft server", "url":"https://coolstone.dev/servercraft/", "type":"app" },
+    { "name":"Servercraft", "about":"Make your own Minecraft server", "url":"https://coolstone.itch.io/servercraft", "type":"app" },
     { "name":"SaveShell", "about":"Save & retrieve information in your command line", "url":"https://www.npmjs.com/save-shell", "type":"cli" },
     { "name":"Remote Video Player", "about":"Play videos in your browser from a url or file", "url":"https://coolstone.itch.io/player", "type":"website" },
     { "name":"Pagelock", "about":"Password-protect an Express page", "url":"https://www.npmjs.com/package/pagelock", "type":"npm" },
