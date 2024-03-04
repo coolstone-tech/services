@@ -26,7 +26,7 @@
     { "name":"npm widget", "about":"Widget for your npm package", "url":"https://npmwidget.coolstone.dev", "type":"other" },
     { "name":"Trivia", "about":"Test your knowledge", "url":"https://coolstone.dev/trivia/", "type":"website" },
     { "name":"Remoterm", "about":"Remotely run bash commands", "url":"https://npmjs.com/remoterm", "type":"npm" },
-    { "name":"Red-Bot", "about":"Fun, meme, roleplay, and moderation commands to make your server more awesome!", "url":"https://discord.com/api/oauth2/authorize?client_id=772534784127402024&permissions=8&scope=bot%20applications.commands", "type":"other" }, 
+    { "name":"Red-Bot", "about":"Fun, meme, roleplay, and moderation commands to make your server more awesome!", "url":"https://top.gg/bot/772534784127402024", "type":"other" }, 
     { "name":"Praseodymium", "about":"Use .properties files in Node.js", "url":"https://www.npmjs.com/package/praseodymium", "type":"npm" },
     { "name":"Encryptic", "about":"A simple encryption library for Node.js", "url":"https://www.npmjs.com/package/encryptic", "type":"npm" },  
     { "name":"Fill In", "about":"Fill in the blank game.", "url":"https://github.com/systemsoftware/fill-in", "type":"website" },
