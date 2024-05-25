@@ -28,7 +28,6 @@
     { "name":"Remoterm", "about":"Remotely run bash commands", "url":"https://npmjs.com/remoterm", "type":"npm" },
     { "name":"Red-Bot", "about":"Fun, meme, roleplay, and moderation commands to make your server more awesome!", "url":"https://top.gg/bot/772534784127402024", "type":"other" }, 
     { "name":"Praseodymium", "about":"Use .properties files in Node.js", "url":"https://www.npmjs.com/package/praseodymium", "type":"npm" },
-    { "name":"Encryptic", "about":"A simple encryption library for Node.js", "url":"https://www.npmjs.com/package/encryptic", "type":"npm" },  
     { "name":"Fill In", "about":"Fill in the blank game.", "url":"https://github.com/systemsoftware/fill-in", "type":"website" },
     { "name":"Register Accelerator", "about":"Register all accelerators in an Electron menu", "url":"https://www.npmjs.com/package/register-accelerator", "type":"npm" },
     { "name":"console", "about":"Console app to view .log files in real time", "url":"https://github.com/coolstone-tech/console", "type":"app" },
@@ -40,5 +39,6 @@
     { "name":"quark", "about":"Fast and minimalistic menu bar-based browser", "url":"https://coolstone.itch.io/quark", "type":"app" },
     { "name":"YouTube Multiviewer", "about":"View many YouTube videos at once", "url":"https://multiviewer.glitch.me/", "type":"website" },
     { "name":"Transfer File", "about":"2 powerful solutions to transfer files between devices with ease", "url":"https://transferfile.glitch.me/", "type":"website" },
-    { "name":"Minecraft Server Version Finder", "about":"List of Minecraft server versions", "url":"https://coolstone.dev/servercraft/versions/", "type":"website" }
+    { "name":"Minecraft Server Version Finder", "about":"List of Minecraft server versions", "url":"https://coolstone.dev/servercraft/versions/", "type":"website" },
+    { "name":"Sumo Shapes", "about":"Transform into geometric characters in fast-paced battles on an ever-changing stage!", "url":"https://coolstone.itch.io/sumo-shapes", "type":"app" }
 ]
