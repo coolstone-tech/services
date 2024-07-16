@@ -41,5 +41,6 @@
     { "name":"Transfer File", "about":"2 powerful solutions to transfer files between devices with ease", "url":"https://transferfile.glitch.me/", "type":"website" },
     { "name":"Minecraft Server Version Finder", "about":"List of Minecraft server versions", "url":"https://coolstone.dev/servercraft/versions/", "type":"website" },
     { "name":"Sumo Shapes", "about":"Transform into geometric characters in fast-paced battles on an ever-changing stage!", "url":"https://coolstone.itch.io/sumo-shapes", "type":"app" },
-    { "name":"Apple Music RPC", "about":"Display Apple Music on your Discord profile.", "url":"https://coolstone.itch.io/apple-music-rpc", "type":"app" }
+    { "name":"Apple Music RPC", "about":"Display Apple Music on your Discord profile.", "url":"https://coolstone.itch.io/apple-music-rpc", "type":"app" },
+    { "name":"ghr", "about":"Run a file from a GitHub repository in your command line", "url":"https://npmjs.com/node-ghr", "type":"cli" }
 ]
