@@ -44,5 +44,6 @@
     { "name":"Sumo Shapes", "about":"Transform into geometric characters in fast-paced battles on an ever-changing stage!", "url":"https://coolstone.itch.io/sumo-shapes", "type":"app" },
     { "name":"Apple Music RPC", "about":"Display Apple Music on your Discord profile.", "url":"https://coolstone.itch.io/apple-music-rpc", "type":"app" },
     { "name":"ghr", "about":"Run a file from a GitHub repository in your command line", "url":"https://npmjs.com/node-ghr", "type":"cli" },
-    { "name":"Stroop Effect Game", "about":"Multiplayer Stroop test game.", "url":"https://stroop.glitch.me/", "type":"website" }
+    { "name":"Stroop Effect Game", "about":"Multiplayer Stroop test game.", "url":"https://stroop.glitch.me/", "type":"website" },
+    { "name":"Express License", "about":"A simple express middleware to add a license page to your app.", "url":"https://npmjs.com/express-license", "type":"cli" }
 ]
