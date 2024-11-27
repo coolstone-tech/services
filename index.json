@@ -46,6 +46,6 @@
     { "name":"ghr", "about":"Run a file from a GitHub repository in your command line", "url":"https://npmjs.com/node-ghr", "type":"cli" },
     { "name":"Stroop Effect Game", "about":"Multiplayer Stroop test game.", "url":"https://stroop.glitch.me/", "type":"website" },
     { "name":"Express License", "about":"A simple express middleware to add a license page to your app.", "url":"https://npmjs.com/express-license", "type":"npm" },
-    { "name":"Party Social", "about":"Elevate your gathering by creating, playing, and selling interactive game Packs that add a unique twist to classic party games!", "url":"https://party-social.com", "type":"web" },
+    { "name":"Party Social", "about":"Elevate your gathering by creating, playing, and selling interactive game Packs that add a unique twist to classic party games!", "url":"https://party-social.com", "type":"website" },
     { "name":"Party Social: Mobile", "about":"iOS version of Party Social.", "url":"https://party-social.com/appstore", "type":"app" }
 ]
